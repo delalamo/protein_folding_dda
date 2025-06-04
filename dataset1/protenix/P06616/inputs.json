@@ -1,0 +1,23 @@
+[
+    {
+        "name": "protenix_job_8eca70c2",
+        "covalent_bonds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "count": 1,
+                    "sequence": "MSIDKSYCGFIAIVGRPNVGKSTLLNKLLGQKISITSRKAQTTRHRIVGIHTEGAYQAIYVDTPGLHMEEKRAINRLMNKAASSSIGDVELVIFVVEGTRWTPDDEMVLNKLREGKAPVILAVNKVDNVQEKADLLPHLQFLASQMNFLDIVPISAETGLNVDTIAAIVRKHLPEATHHFPEDYITDRSQRFMASEIIREKLMRFLGAELPYSVTVEIERFVSNERGGYDINGLILVEREGQKKMVIGNKGAKIKTIGIEARKDMQEMFEAPVHLELWVKVKSGWADDERALRSLGYVDDL",
+                    "modifications": [],
+                    "msa": {
+                        "precomputed_msa_dir": "/mnt/bn/ai4s-vepfs/protenix_inference/infer_outputs/2025-05-21/d8ace8dc-8466-4a5d-b6b4-e2d68a0f90ca/msa/0",
+                        "pairing_db": "uniref100",
+                        "pairing_db_fpath": null,
+                        "non_pairing_db_fpath": null,
+                        "search_too": null,
+                        "msa_save_dir": null
+                    }
+                }
+            }
+        ]
+    }
+]

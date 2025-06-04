@@ -1,0 +1,18 @@
+[{
+ "name": "2025-05-21_09:57",
+ "modelSeeds": [
+  "1591598270"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MRSLLILVLCFLPLAALGKVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESNFNTQATNRNTDGSTDYGILQINSRWWCNDGRTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDGNGMNAWVA",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
