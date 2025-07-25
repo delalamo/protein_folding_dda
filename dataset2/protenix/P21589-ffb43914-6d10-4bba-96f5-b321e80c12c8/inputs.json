@@ -1,0 +1,23 @@
+[
+    {
+        "name": "P21589",
+        "covalent_bonds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "count": 1,
+                    "sequence": "MCPRAARAPATLLLALGAVLWPAAGAWELTILHTNDVHSRLEQTSEDSSKCVNASRCMGGVARLFTKVQQIRRAEPNVLLLDAGDQYQGTIWFTVYKGAEVAHFMNALRYDAMALGNHEFDNGVEGLIEPLLKEAKFPILSANIKAKGPLASQISGLYLPYKVLPVGDEVVGIVGYTSKETPFLSNPGTNLVFEDEITALQPEVDKLKTLNVNKIIALGHSGFEMDKLIAQKVRGVDVVVGGHSNTFLYTGNPPSKEVPAGKYPFIVTSDDGRKVPVVQAYAFGKYLGYLKIEFDERGNVISSHGNPILLNSSIPEDPSIKADINKWRIKLDNYSTQELGKTIVYLDGSSQSCRFRECNMGNLICDAMINNNLRHTDEMFWNHVSMCILNGGGIRSPIDERNNGTITWENLAAVLPFGGTFDLVQLKGSTLKKAFEHSVHRYGQSTGEFLQVGGIHVVYDLSRKPGDRVVKLDVLCTKCRVPSYDPLKMDEVYKVILPNFLANGGDGFQMIKDELLRHDSGDQDINVVSTYISKMKVIYPAVEGRIKFSTGSHCHGSFSLIFLSLWAVIFVLYQ",
+                    "modifications": [],
+                    "msa": {
+                        "precomputed_msa_dir": "/mnt/bn/ai4s-vepfs/protenix_inference/infer_outputs/2025-07-10/ffb43914-6d10-4bba-96f5-b321e80c12c8/msa/0",
+                        "pairing_db": "uniref100",
+                        "pairing_db_fpath": null,
+                        "non_pairing_db_fpath": null,
+                        "search_too": null,
+                        "msa_save_dir": null
+                    }
+                }
+            }
+        ]
+    }
+]

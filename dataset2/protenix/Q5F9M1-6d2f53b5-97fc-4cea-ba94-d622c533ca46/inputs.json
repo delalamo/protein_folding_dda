@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Q5F9M1",
+        "covalent_bonds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "count": 1,
+                    "sequence": "MLKKFVLGGIAALVLAACGGSEGGSGASSAPAQSAISGSLIERINNKGTVTVGTEGTYAPFTYHDKDGKLTGYDVEVTRAVAEKLGVKVEFKETQWDSMMAGLKAGRFDVVANQVGLTSPERQATFDKSEPYSWSGAVLVAHNDSNIKSIADIKGVKTAQSLTSNYGEKAKAAGAQLVPVDGLAQSLTLIEQKRADATLNDELAVLDYLKKNPNAGVKIVWSAPADEKVGSGLIVNKGNDEAVAKFSTAINELKADGTLKKLGEQFFGKDISVQ",
+                    "modifications": [],
+                    "msa": {
+                        "precomputed_msa_dir": "/mnt/bn/ai4s-vepfs/protenix_inference/infer_outputs/2025-07-10/6d2f53b5-97fc-4cea-ba94-d622c533ca46/msa/0",
+                        "pairing_db": "uniref100",
+                        "pairing_db_fpath": null,
+                        "non_pairing_db_fpath": null,
+                        "search_too": null,
+                        "msa_save_dir": null
+                    }
+                }
+            }
+        ]
+    }
+]

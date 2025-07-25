@@ -1,0 +1,23 @@
+[
+    {
+        "name": "P00558",
+        "covalent_bonds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "count": 1,
+                    "sequence": "MSLSNKLTLDKLDVKGKRVVMRVDFNVPMKNNQITNNQRIKAAVPSIKFCLDNGAKSVVLMSHLGRPDGVPMPDKYSLEPVAVELKSLLGKDVLFLKDCVGPEVEKACANPAAGSVILLENLRFHVEEEGKGKDASGNKVKAEPAKIEAFRASLSKLGDVYVNDAFGTAHRAHSSMVGVNLPQKAGGFLMKKELNYFAKALESPERPFLAILGGAKVADKIQLINNMLDKVNEMIIGGGMAFTFLKVLNNMEIGTSLFDEEGAKIVKDLMSKAEKNGVKITLPVDFVTADKFDENAKTGQATVASGIPAGWMGLDCGPESSKKYAEAVTRAKQIVWNGPVGVFEWEAFARGTKALMDEVVKATSRGCITIIGGGDTATCCAKWNTEDKVSHVSTGGGASLELLEGKVLPGVDALSNI",
+                    "modifications": [],
+                    "msa": {
+                        "precomputed_msa_dir": "/mnt/bn/ai4s-vepfs/protenix_inference/infer_outputs/2025-07-10/322c15f9-f99b-4896-8c4b-31f8c1d8e20c/msa/0",
+                        "pairing_db": "uniref100",
+                        "pairing_db_fpath": null,
+                        "non_pairing_db_fpath": null,
+                        "search_too": null,
+                        "msa_save_dir": null
+                    }
+                }
+            }
+        ]
+    }
+]

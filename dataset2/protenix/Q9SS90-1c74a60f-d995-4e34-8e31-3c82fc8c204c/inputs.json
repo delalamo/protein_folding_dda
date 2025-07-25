@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Q9SS90",
+        "covalent_bonds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "count": 1,
+                    "sequence": "MGGGNSKEESSSPSSSSWASHQSYPQYGPDSYNYPPPPTYAPAPSPAPAPAPVPAPSPASSYGPQYSQEGYASQPNNPPPPTYAPAPSPASSYGHQYSQEGYASAASQPNYPPPPSQSQVADRKKFDRRYSKISDNYSSLLQVSEALGRAGLESSNLIVGIDFTKSNEWTGAKSFNRKSLHHLSNTPNPYEQAITIIGRTLAAFDEDNLIPCYGFGDASTHDQDVFSFYPEGRFCNGFEEVLARYREIVPQLKLAGPTSFAPIIEMAMTVVEQSSGQYHVLVIIADGQVTRSVDTEHGRLSPQEQKTVDAIVKASTLPLSIVLVGVGDGPWDMMQEFDDNIPARAFDNFQFVNFTEIMSKNKDQSRKETEFALSALMEIPPQYKATIELNLLGVRNGNIPQRIPLPPPVQSGSSFSSSRIPNFEPSVPPYPFESKQMSSADDIQLCPICLSNPKNMAFGCGHQTCCECGPDLKVCPICRAPIQTRIKLY",
+                    "modifications": [],
+                    "msa": {
+                        "precomputed_msa_dir": "/mnt/bn/ai4s-vepfs/protenix_inference/infer_outputs/2025-07-10/1c74a60f-d995-4e34-8e31-3c82fc8c204c/msa/0",
+                        "pairing_db": "uniref100",
+                        "pairing_db_fpath": null,
+                        "non_pairing_db_fpath": null,
+                        "search_too": null,
+                        "msa_save_dir": null
+                    }
+                }
+            }
+        ]
+    }
+]
